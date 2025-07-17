@@ -54,4 +54,9 @@ if(temp>20){
     console.log('winter');
 }else{console.log('normal');}
 
-//
+// ternary operator
+
+var age = 9;
+
+age >18 ? console.log('can vote') : console.log('be 18 first');
+
